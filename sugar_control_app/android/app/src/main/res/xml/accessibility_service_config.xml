@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accessibility-service
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accessibilityEventTypes="typeWindowContentChanged"
+    android:accessibilityFeedbackType="feedbackGeneric"
+    android:notificationTimeout="500"
+    android:canRetrieveWindowContent="true"
+    android:canTakeScreenshot="true"
+    android:settingsActivity="com.sugarcontrol.sugar_control_app.MainActivity"
+    android:description="@string/accessibility_service_description"
+    android:packageNames="com.taobao.taobao,com.jingdong.app.mall,com.sankuai.meituan,com.eg.android.AlipayGphone,com.tencent.mm,com.xingin.xhs,com.smile.gifmaker,com.ss.android.ugc.aweme,com.meituan.retail.v.android,com.dianping.v1"/>

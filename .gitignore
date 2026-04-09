@@ -1,0 +1,21 @@
+# Environment / secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database WAL temporary files (main .db is intentionally tracked)
+*.db-shm
+*.db-wal
+
+# Android local config
+android/local.properties
+android/.kotlin/
+android/app/.cxx/
+build/
+
+# Claude Code session cache
+.claude/settings.local.json

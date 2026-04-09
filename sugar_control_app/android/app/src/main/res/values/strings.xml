@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">控糖小助手</string>
+    <string name="accessibility_service_description">控糖小助手需要此权限来检测您在购物App中浏览高糖食品的行为，并在糖分摄入已超标时发出健康提醒。所有数据仅在本地处理，不会收集或上传您的个人信息。</string>
+</resources>
