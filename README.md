@@ -4,6 +4,46 @@
 
 ---
 
+## 应用截图
+
+### 界面预览
+
+<div align="center">
+  <img src="docs/images/1.jpg" width="18%" alt="App图标"/>
+  <img src="docs/images/2.jpg" width="18%" alt="问一问界面"/>
+  <img src="docs/images/3.jpg" width="18%" alt="摄入统计界面"/>
+  <img src="docs/images/4.jpg" width="18%" alt="摄入统计界面"/>
+  <img src="docs/images/5.jpg" width="18%" alt="设置界面"/>
+</div>
+
+### 对话功能示例
+
+> 自动记录摄入、删除记录、超额提醒、健康建议等
+
+<div align="center">
+  <img src="docs/images/6.jpg" width="23%" alt="对话示例"/>
+  <img src="docs/images/7.jpg" width="23%" alt="对话示例"/>
+  <img src="docs/images/8.jpg" width="23%" alt="对话示例"/>
+  <img src="docs/images/9.jpg" width="23%" alt="对话示例"/>
+</div>
+<div align="center">
+  <img src="docs/images/10.jpg" width="23%" alt="对话示例"/>
+  <img src="docs/images/11.jpg" width="23%" alt="对话示例"/>
+  <img src="docs/images/12.jpg" width="23%" alt="对话示例"/>
+  <img src="docs/images/13.jpg" width="23%" alt="对话示例"/>
+</div>
+
+### 购物高糖预警弹窗
+
+<div align="center">
+  <img src="docs/images/14.jpg" width="23%" alt="购物预警"/>
+  <img src="docs/images/15.jpg" width="23%" alt="购物预警"/>
+  <img src="docs/images/16.jpg" width="23%" alt="购物预警"/>
+  <img src="docs/images/17.jpg" width="23%" alt="购物预警"/>
+</div>
+
+---
+
 ## 功能概览
 
 | 功能 | 说明 |
